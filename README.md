@@ -1,6 +1,6 @@
-Sup lads,
-Aquí el Don Torlòk
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Sup lads,;Aquí el Don Torlòk)](https://git.io/typing-svg)a
+<!-- Sup lads,
+Aquí el Don Torlòk -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Sup lads,;Aquí el Don Torlòk)](https://git.io/typing-svg)
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tstelfox&show_icons=true&theme=tokyonight)
